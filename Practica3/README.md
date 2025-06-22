@@ -4,9 +4,8 @@
 Diseñar y usar una interfaz gráfica en la pantalla HMI para controlar el brillo de un LED vía PWM.
 
 ## 📂 Archivos incluidos
-- `Practica3.ino`: Código Arduino para recibir datos del HMI y generar PWM.
-- `Proyecto_StoneDesigner/`: Archivos del proyecto diseñado en STONE Designer GUI.
-- `Informe_Practica3.pdf`: Documento explicativo con capturas y análisis.
+- `reto/`: Código Arduino para recibir datos del HMI y generar PWM y archivos del proyecto diseñado en STONE Designer GUI.
+- `Informe_Practica3.pdf`:[Documento explicativo en formato IEEE](/Control_practicas_tablero.pdf)..
 - `Evidencias/`: Fotos y videos del funcionamiento.
 
 ## 🗒️ Descripción
