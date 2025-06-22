@@ -29,19 +29,16 @@ Practicas-Tableros/
 ├── Practica1/
 │   ├── Practica1.ino
 │   ├── Evidencias/
-│   ├── Informe_Practica1.pdf
 │   └── README.md
 ├── Practica2/
 │   ├── ParteA/
 │   ├── ParteB/
 │   ├── Diagrama_FSM.png
-│   ├── Informe_Practica2.pdf
 │   └── README.md
 ├── Practica3/
 │   ├── Practica3.ino
 │   ├── Proyecto_StoneDesigner/
 │   ├── Evidencias/
-│   ├── Informe_Practica3.pdf
 │   └── README.md
 ├── Practica4/
 │   ├── Practica4.ino
@@ -50,9 +47,9 @@ Practicas-Tableros/
 |   ├── Practica4_matlab.m
 |   ├── Practica4.txt
 │   ├── Evidencias/
-│   ├── Informe_Practica4.pdf
 │   └── README.md
 ├── Guia_de_uso_de_Tableros.pdf
+├── Informe_practicas.pdf
 └── README.md
 ```
 
