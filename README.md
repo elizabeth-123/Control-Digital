@@ -3,6 +3,9 @@
 
 Este repositorio contiene la documentación, códigos fuente y recursos relacionados con las prácticas realizadas utilizando los tableros didácticos basados en **Controllino Mega**, **ESP32 PLC 14** y la interfaz **HMI STONE**, siguiendo la guía oficial proporcionada por el Departamento de Ingeniería Eléctrica, Electrónica y Telecomunicaciones.
 
+
+![Tablero_componentes](tablero.png)
+
 ## 📚 **Contenido del repositorio**
 
 Este repositorio está organizado de acuerdo con las prácticas detalladas en la guía:
