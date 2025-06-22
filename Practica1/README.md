@@ -1,16 +1,21 @@
-# Práctica 1: Manejo de Salidas Digitales con Controllino Mega
+# 📘 Práctica 1: Manejo de Salidas Digitales con Controllino Mega
 
 ## 🎯 Objetivo
-Familiarizarse con el manejo de salidas digitales usando el PLC Controllino Mega mediante una secuencia de encendido de LEDs.
+Encender secuencialmente LEDs utilizando las salidas digitales del Controllino Mega para familiarizarse con su uso.
 
-## ⚙️ Archivos
-- `Practica1.ino` — Código fuente para encender secuencialmente los LEDs del tablero.
+## 📂 Archivos incluidos
+- `Practica1.ino`: Código fuente para la secuencia de encendido.
+- `Evidencias/`: Carpeta para fotos y videos del resultado.
+- `Informe_Practica1.pdf`: Documento explicativo en formato IEEE.
 
-## 📌 Evidencias
-Colocar capturas de pantalla, fotos o videos en la carpeta `Evidencias/`.
+## 🔍 Evidencia
 
-## 📑 Informe
-Adjuntar el archivo `Informe_Practica1.pdf` con la descripción de la práctica, el código comentado y las observaciones.
+A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
+
+![Secuencia de LEDs](Evidencias/leds_encendidos.jpg)
+
+## 🗒️ Descripción
+En esta práctica se utiliza la librería `Controllino.h` para manipular salidas digitales con variables predefinidas. La secuencia de LEDs simula un control secuencial típico en automatización.
 
 ## 👤 Autor
 Elizabeth Corte
