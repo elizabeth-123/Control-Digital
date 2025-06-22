@@ -46,7 +46,9 @@ Practicas-Tableros/
 ├── Practica4/
 │   ├── Practica4.ino
 │   ├── Proyecto_StoneDesigner/
-│   ├── Controlador_PID/
+│   ├── Practica4_labview.vi
+|   ├── Practica4_matlab.m
+|   ├── Practica4.txt
 │   ├── Evidencias/
 │   ├── Informe_Practica4.pdf
 │   └── README.md
