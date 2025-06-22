@@ -12,7 +12,7 @@ Encender secuencialmente LEDs utilizando las salidas digitales del Controllino M
 
 A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 
-![Secuencia de LEDs](Evidencias/leds_encendidos.jpg)
+![Secuencia de LEDs](Evidencias/leds.png)
 
 ## 🗒️ Descripción
 En esta práctica se utiliza la librería `Controllino.h` para manipular salidas digitales con variables predefinidas. La secuencia de LEDs simula un control secuencial típico en automatización.
