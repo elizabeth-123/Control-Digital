@@ -18,4 +18,4 @@ A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 En esta práctica se utiliza la librería `Controllino.h` para manipular salidas digitales con variables predefinidas. La secuencia de LEDs simula un control secuencial típico en automatización.
 
 ## 👤 Autor
-Elizabeth Corte
+Elizabeth Corte y Dayana Jara
