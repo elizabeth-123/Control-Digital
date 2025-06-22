@@ -1,0 +1,16 @@
+# Práctica 1: Manejo de Salidas Digitales con Controllino Mega
+
+## 🎯 Objetivo
+Familiarizarse con el manejo de salidas digitales usando el PLC Controllino Mega mediante una secuencia de encendido de LEDs.
+
+## ⚙️ Archivos
+- `Practica1.ino` — Código fuente para encender secuencialmente los LEDs del tablero.
+
+## 📌 Evidencias
+Colocar capturas de pantalla, fotos o videos en la carpeta `Evidencias/`.
+
+## 📑 Informe
+Adjuntar el archivo `Informe_Practica1.pdf` con la descripción de la práctica, el código comentado y las observaciones.
+
+## 👤 Autor
+Elizabeth Corte
