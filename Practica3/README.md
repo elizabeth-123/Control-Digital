@@ -9,6 +9,12 @@ Diseñar y usar una interfaz gráfica en la pantalla HMI para controlar el brill
 - `Informe_Practica3.pdf`:[Documento explicativo en formato IEEE](/Control_practicas_tablero.pdf)..
 - `Evidencias/`: Fotos y videos del funcionamiento.
 
+## 🔍 Evidencia
+
+A continuación se muestra una imagen del control de dos LEDs independientes:
+
+![Leds_independientes](Evidencias/leds.png)
+
 ## 🗒️ Descripción
 Se implementa un SpinBox en la HMI para ajustar el ciclo de trabajo del PWM, permitiendo cambiar la intensidad del LED en tiempo real.
 
