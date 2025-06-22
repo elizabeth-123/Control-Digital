@@ -22,3 +22,10 @@ Cada práctica incluye:
 
 ## 📂 **Estructura del repositorio**
 
+
+## ✏️ **Autor**
+
+- **Nombre:** _Elizabeth Corte y Dayana Jara_
+- **Institución:** Departamento de Ingeniería Eléctrica, Electrónica y Telecomunicaciones
+- **Fecha:23 Junio 2025
+
