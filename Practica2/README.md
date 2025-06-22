@@ -13,4 +13,4 @@ Controlar un LED mediante botones y diseñar una máquina de estados finita (FSM
 La práctica fortalece conocimientos de control digital y estructuras de programación usando Controllino Mega.
 
 ## 👤 Autor
-Elizabeth Corte
+Elizabeth Corte y Dayana Jara
