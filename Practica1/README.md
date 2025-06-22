@@ -6,7 +6,7 @@ Encender secuencialmente LEDs utilizando las salidas digitales del Controllino M
 ## 📂 Archivos incluidos
 - `Practica1.ino`: Código fuente para la secuencia de encendido.
 - `Evidencias/`: Carpeta para fotos y videos del resultado.
-- `Informe_Practica1.pdf`: [Documento explicativo en formato IEEE](/Control_practicas_tablero.pdf).
+- `Informe_Practica1.pdf`: [Documento explicativo en formato IEEE](/Informe_practicas.pdf).
   
 
 ## 🔍 Evidencia
