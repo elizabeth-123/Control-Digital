@@ -80,7 +80,7 @@ Practicas-Tableros/
 
 ## 📑 **Referencias**
 
-- [Guía de uso de Tableros (PDF)](./Guia_de_uso_de_Tableros.pdf)
+- [Guía de uso de Tableros (PDF)](./Guía_de_uso_de_Tableros.pdf)
 - [Controllino Official Website](https://www.controllino.com/)
 - [STONE HMI Official Website](https://www.stoneitech.com/)
 
