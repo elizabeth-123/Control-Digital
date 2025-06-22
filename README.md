@@ -61,24 +61,6 @@ Practicas-Tableros/
   - [Procesar_HMI.h](/Practica3/reto/Procesar_HMI.h)
 - Software **STONE Designer GUI** para diseñar interfaces gráficas en el HMI STONE.
 
-## 🚀 **Cómo usar este repositorio**
-
-1. **Clonar o descargar**
-   ```bash
-   git clone https://github.com/tu-usuario/Practicas-Tableros.git
-   ```
-
-2. **Abrir cada práctica**
-   - Navega a la carpeta de la práctica que deseas revisar.
-   - Abre el archivo `.ino` en Arduino IDE.
-   - Si aplica, abre el proyecto de HMI en STONE Designer GUI.
-
-3. **Cargar el código al PLC**
-   - Conecta tu tablero.
-   - Sigue los pasos de encendido y carga de firmware según la guía.
-
-4. **Documentar resultados**
-   - Agrega tus observaciones, capturas y videos a la carpeta `Evidencias` de cada práctica.
 
 ## 📑 **Referencias**
 
