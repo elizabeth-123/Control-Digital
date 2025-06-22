@@ -59,7 +59,7 @@ Practicas-Tableros/
 - Arduino IDE configurado para **Controllino Mega** y **ESP32 PLC 14**.
 - Librerías necesarias:
   - [Controllino.h](https://www.controllino.com/board-library-setup-in-arduino-ide/)
-  - [Procesar_HMI.h](https://github.com/HenryM19/HMI-Stone.git)
+  - [Procesar_HMI.h](/Practica3/reto/Procesar_HMI.h)
 - Software **STONE Designer GUI** para diseñar interfaces gráficas en el HMI STONE.
 
 ## 🚀 **Cómo usar este repositorio**
