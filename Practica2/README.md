@@ -9,6 +9,16 @@ Controlar un LED mediante botones y diseñar una máquina de estados finita (FSM
 - `Diagrama_FSM.jpg`: Diagrama de estados.
 - `Informe_Practica2.pdf`: [Documento explicativo en formato IEEE](/Control_practicas_tablero.pdf).
 
+## 🔍 Evidencia
+
+A continuación se muestra una imagen del resultado de la ParteA:
+
+![ParteA](Evidencias/leds.png)
+
+A continuación se muestra una imagen del resultado de la ParteB:
+
+![ParteA](Evidencias/leds.png)
+
 ## 🗒️ Descripción
 La práctica fortalece conocimientos de control digital y estructuras de programación usando Controllino Mega.
 
