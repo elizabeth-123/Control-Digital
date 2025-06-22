@@ -6,7 +6,7 @@ Adquirir datos de un motor DC, mostrar gráficas en HMI y controlar su velocidad
 ## 📂 Archivos incluidos
 - `Practica4.ino`: Código base para adquisición de datos y control.
 - `Proyecto_StoneDesigner/`: Proyecto de HMI para sliders, gráficas y labels.
-- `Informe_Practica4.pdf`: [Documento explicativo en formato IEEE](/Control_practicas_tablero.pdf).
+- `Informe_Practica4.pdf`: [Documento explicativo en formato IEEE](/Informe_practicas).
 - `Practica4_labview.vi`: Proyecto para adquisicion de datos para hallar la funcion de transferencia del motor.
 - `Practica4_matlab.vi`: Codigo base para obtener la funcion de transferencia.
 - `Evidencias/`: Fotos, videos y resultados experimentales.
