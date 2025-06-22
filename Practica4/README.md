@@ -11,6 +11,14 @@ Adquirir datos de un motor DC, mostrar gráficas en HMI y controlar su velocidad
 - `Practica4_matlab.vi`: Codigo base para obtener la funcion de transferencia.
 - `Evidencias/`: Fotos, videos y resultados experimentales.
 - `Practica4.txt`: Datos adquiridos del motor.
+
+## 🔍 Evidencia
+
+A continuación se muestra una imagen que muestra como el controlador PID regula automáticamente la velocidad
+del motor DC del EPC a un valor de referencia definido.
+
+![PID](Evidencias/leds.png)
+
 ## 🗒️ Descripción
 Se implementa control PWM, conteo de pulsos mediante interrupciones, cálculo de RPM y un PID para regular la velocidad. Se visualizan datos en tiempo real en la HMI.
 
