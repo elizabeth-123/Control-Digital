@@ -7,7 +7,7 @@ Controlar un LED mediante botones y diseñar una máquina de estados finita (FSM
 - `ParteA/`: Código y pruebas para encender y apagar un LED con botones.
 - `ParteB/`: Implementación de la FSM para semáforos.
 - `Diagrama_FSM.jpg`: Diagrama de estados.
-- `Informe_Practica2.pdf`: [Documento explicativo en formato IEEE](/Control_practicas_tablero.pdf).
+- `Informe_Practica2.pdf`: [Documento explicativo en formato IEEE](/Informe_practicas.pdf).
 
 ## 🔍 Evidencia
 
