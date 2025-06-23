@@ -15,6 +15,12 @@ A continuación se muestra una imagen del control de dos LEDs independientes:
 
 ![Leds_independientes](Evidencias/leds.png)
 
+## 🎥 Video de demostración
+
+<a href="https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing">
+  <img src="Evidencias/miniatura.png" alt="Ver video" width="200" />
+</a>
+
 ## 🗒️ Descripción
 Se implementa un SpinBox en la HMI para ajustar el ciclo de trabajo del PWM, permitiendo cambiar la intensidad del LED en tiempo real.
 
