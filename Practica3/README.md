@@ -25,7 +25,7 @@ Tambien se muestra imagenes de diferentes niveles de brillo:
 ## 🎥 Video de demostración
 
 <a href="https://drive.google.com/file/d/1lpTiXqDkvRDp8XWMYF1XFe_zp0gdSeLe/view?usp=sharing">
-  <img src="Evidencias/miniatura.png" alt="Ver video" width="200" />
+  <img src="Evidencias/miniatura.png" alt="Ver video" width="400" />
 </a>
 
 ## 🗒️ Descripción
