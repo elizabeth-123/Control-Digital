@@ -18,7 +18,8 @@ A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 ## 🎥 Video de la práctica 1
 
 
-[![Ver Video](Evidencias/leds.png)](https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing)
+[![Ver video](https://img.shields.io/badge/📹-Ver%20Video%20en%20Drive-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing)
+
 
 
 
