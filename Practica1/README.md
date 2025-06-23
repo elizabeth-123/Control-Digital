@@ -15,10 +15,12 @@ A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 
 ![Secuencia de LEDs](Evidencias/practica1.jpeg)
 
-## 🎥 Video de la práctica 1
+## 🎥 Video de demostración
 
 
-[![Ver video](https://img.shields.io/badge/📹-Ver%20Video%20en%20Drive-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing)
+<video src="Evidencias/practica1.mp4" controls style="max-width: 100%; height: auto;">
+  Tu navegador no soporta video HTML5.
+</video>
 
 
 
