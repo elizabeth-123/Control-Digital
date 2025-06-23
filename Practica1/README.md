@@ -18,7 +18,7 @@ A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 ## 🎥 Video de la práctica 1
 
 
-[![Ver Video](Evidencias/practica1.jpeg)](https://drive.google.com/drive/folders/1sUerxPZrHMP-KrFk2HJZ01Tzu0UgrRLr)
+[![Ver Video](Evidencias/practica1.jpeg)](https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing)
 
 
 
