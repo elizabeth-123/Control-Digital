@@ -15,11 +15,12 @@ A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 
 ![Secuencia de LEDs](Evidencias/practica1.jpeg)
 
-## 🎥 Video de demostración
+## 🎥 Video de la práctica 1
 
-<video src="Evidencias/practica1.mp4" controls autoplay loop style="max-width: 100%; height: auto;">
+<video src="Evidencias/practica1.mp4" controls style="max-width: 100%; height: auto;">
   Tu navegador no soporta videos HTML5.
 </video>
+
 
 
 ## 🗒️ Descripción
