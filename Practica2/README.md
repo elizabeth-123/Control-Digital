@@ -24,13 +24,13 @@ A continuación se muestra una imagen del resultado de la ParteB:
 ## Parte A
 
 <a href="https://drive.google.com/file/d/1dom4wn0lrkgUOZ0CJy1oOZqwY2UC9jc7/view?usp=sharing">
-  <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
+  <img src="Evidencias/miniatura1.png" alt="Ver video" width="400" />
 </a>
 
 ## Parte B
 
 <a href="https://drive.google.com/file/d/1al47-uy2EHmxWiRenUXsas-BWCNz9qG5/view?usp=sharing">
-  <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
+  <img src="Evidencias/miniatura2.png" alt="Ver video" width="400" />
 </a>
 
 ## 🗒️ Descripción
