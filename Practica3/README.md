@@ -22,7 +22,7 @@ A continuación se muestra una imagen del control de dos LEDs independientes:
 
 ## 🎥 Video de demostración
 
-<a href="https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1lpTiXqDkvRDp8XWMYF1XFe_zp0gdSeLe/view?usp=sharing">
   <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
 </a>
 
