@@ -18,7 +18,7 @@ A continuación se muestra una imagen de la secuencia de encendido de los LEDs:
 ## 🎥 Video de demostración
 
 <a href="https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing">
-  <img src="images/leds.png" alt="Ver video" width="200" />
+  <img src="Evidencias/miniatura.png" alt="Ver video" width="200" />
 </a>
 
 
