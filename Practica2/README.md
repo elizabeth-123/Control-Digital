@@ -17,12 +17,12 @@ A continuación se muestra una imagen del resultado de la ParteA:
 
 A continuación se muestra una imagen del resultado de la ParteB:
 
-<img src="Evidencias/parteB.jpeg" alt="ParteB" width="400" />
+<img src="Evidencias/parteB.jpeg" alt="ParteB" width="300" />
 
 ## 🎥 Video de demostración
 
 <a href="https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing">
-  <img src="./Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
+  <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
 </a>
 
 ## 🗒️ Descripción
