@@ -14,10 +14,24 @@ Adquirir datos de un motor DC, mostrar gráficas en HMI y controlar su velocidad
 
 ## 🔍 Evidencia
 
+Interfaz final:
+
+<img src="Evidencias/interfaz.jpeg" alt="Interfaz" width="500" />
+
 A continuación se muestra una imagen que muestra como el controlador PID regula automáticamente la velocidad
 del motor DC del EPC a un valor de referencia definido.
 
-![PID](Evidencias/leds.png)
+
+<img src="Evidencias/practica4_01.jpeg" alt="Resultados 1" width="500" />
+
+<img src="Evidencias/practica4_02.jpeg" alt="Resultados 2" width="500" />
+
+
+## 🎥 Video de demostración
+
+<a href="https://drive.google.com/file/d/1lpTiXqDkvRDp8XWMYF1XFe_zp0gdSeLe/view?usp=sharing">
+  <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
+</a>
 
 ## 🗒️ Descripción
 Se implementa control PWM, conteo de pulsos mediante interrupciones, cálculo de RPM y un PID para regular la velocidad. Se visualizan datos en tiempo real en la HMI.
