@@ -13,11 +13,17 @@ Controlar un LED mediante botones y diseñar una máquina de estados finita (FSM
 
 A continuación se muestra una imagen del resultado de la ParteA:
 
-![ParteA](Evidencias/leds.png)
+![ParteA](Evidencias/parteA.jpeg)
 
 A continuación se muestra una imagen del resultado de la ParteB:
 
-![ParteA](Evidencias/leds.png)
+![ParteB](Evidencias/parteB.jpeg)
+
+## 🎥 Video de demostración
+
+<a href="https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing">
+  <img src="Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
+</a>
 
 ## 🗒️ Descripción
 La práctica fortalece conocimientos de control digital y estructuras de programación usando Controllino Mega.
