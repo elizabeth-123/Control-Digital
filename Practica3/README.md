@@ -13,7 +13,9 @@ Diseñar y usar una interfaz gráfica en la pantalla HMI para controlar el brill
 
 A continuación se muestra una imagen del control de dos LEDs independientes:
 
-![Leds_independientes](Evidencias/leds.png)
+![Interfaz](Evidencias/interfaz.jpeg)
+![Resultados](Evidencias/practica3_01.jpeg)
+![Resultados](Evidencias/practica3_02.jpeg)
 
 ## 🎥 Video de demostración
 
