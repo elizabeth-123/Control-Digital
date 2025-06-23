@@ -21,7 +21,15 @@ A continuación se muestra una imagen del resultado de la ParteB:
 
 ## 🎥 Video de demostración
 
-<a href="https://drive.google.com/file/d/130UKoNkTH7LjpznN1wBnyNle9CnzLyWt/view?usp=sharing">
+## Parte A
+
+<a href="https://drive.google.com/file/d/1dom4wn0lrkgUOZ0CJy1oOZqwY2UC9jc7/view?usp=sharing">
+  <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
+</a>
+
+## Parte B
+
+<a href="https://drive.google.com/file/d/1al47-uy2EHmxWiRenUXsas-BWCNz9qG5/view?usp=sharing">
   <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="200" />
 </a>
 
