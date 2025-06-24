@@ -30,7 +30,7 @@ del motor DC del EPC a un valor de referencia definido.
 ## 🎥 Video de demostración
 
 <a href="https://drive.google.com/file/d/1Z9c8-Cyg3Enw6BcZSSwLrkEjmazu3bCz/view?usp=sharing">
-  <img src="../Practica1/Evidencias/miniatura.png" alt="Ver video" width="400" />
+  <img src="Evidencias/miniatura1.png" alt="Ver video" width="400" />
 </a>
 
 <a href="https://drive.google.com/file/d/1bA8jwb2Lauek65oQo7Ab-Pu2mnWW8pT1/view?usp=sharing">
