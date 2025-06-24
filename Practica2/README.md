@@ -40,5 +40,10 @@ Para la parte A, el código implementa un sistema de control para una secuencia 
 
 <img src="Evidencias/diagrama de bloques.png" alt="ParteB" width="300" />
 
+
+Para la parte B, el código implementa un sistema de control para dos semáforos coordinados (A y B) utilizando una máquina de estados sobre una placa Controllino. Cada semáforo tiene tres luces (verde, amarillo y rojo), cuyos pines están agrupados en una estructura `Semaforo` para facilitar su gestión. El programa simula el comportamiento típico de semáforos urbanos: cuando el semáforo A está en verde o amarillo, el B permanece en rojo, y luego alternan los roles. Cada estado (verde o amarillo para cada semáforo) tiene una duración específica controlada mediante temporización no bloqueante usando `millis()`. Al finalizar el tiempo asignado a un estado, se apagan todas las luces y se establece el siguiente estado mediante la función `establecerEstado`, asegurando una transición segura y clara entre las fases del ciclo semafórico.
+
+<img src="Diagrama_FSM.png" alt="ParteB" width="300" />
+
 ## 👤 Autor
 Elizabeth Corte y Dayana Jara
